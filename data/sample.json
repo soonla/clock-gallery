@@ -1,0 +1,12 @@
+{
+  "myName": "장성호",
+  "myAge": "20",
+  "fruits": ["banana", "apple", "kiwi"],
+  "items": [
+    {
+      "category": "CLASSIC",
+      "title": "fdlskfld",
+      "price": 4000
+    }
+  ]
+}
